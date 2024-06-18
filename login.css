@@ -1,0 +1,95 @@
+.body
+{
+    background-color: #b3b6c4;
+}
+.main 
+{
+    background-color: #ffffff;
+    width: 12cm;
+    height: 8cm;
+    margin-top: 0.1cm;
+    margin-left: 14cm;
+    border: solid;
+    border-radius: 0.5cm;
+    box-shadow: 0cm 0.3cm 0.3cm 0cm;
+    /* align-content: center; */
+    /* margin-bottom: 0.6cm; */
+}
+
+.main label
+{
+    margin-left: 0.3cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+#input1
+{
+    margin-top: 1.5cm;
+}
+.main input
+{
+    background-color:#daeee7;
+    margin-top:0.5cm;
+    margin-left: 3cm;
+    font-size: large;
+    border-radius: 0.2cm;
+    color: black;
+    /* border-width: 0.1cm; */
+}
+
+#pass1
+{
+    margin-left: 2.2cm;
+}
+
+#pass2
+{
+    margin-left: 0.4cm;
+}
+
+#but
+{
+    background-color: #2ed198;
+    height: 0.9cm;
+    border: solid;
+    border-radius: 0.2cm;
+    width: 3cm;
+    /* margin-right:9cm ; */
+    margin-left: 4cm;
+    margin-top: -0.1cm;
+}
+
+#head
+{
+    margin-top: 1cm;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.passcheck
+{
+    font-size: 0.4cm;
+    font-weight: bolder;
+    margin-left: 1.1cm;
+}
+
+#submitbutton
+{
+    margin-left: 4.7cm;
+    /* color: #2ed198; */
+    background-color:#2ed198 ;
+}
+
+#para
+{
+    margin-left: 1.7cm;
+    font-size: larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#heading
+{
+    margin-top: 2cm;
+    /* font-size: larger; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
